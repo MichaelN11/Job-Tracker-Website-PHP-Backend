@@ -1,7 +1,5 @@
 <?php
 
-// ****STILL NEED MANAGE CONTACTS PAGE****
-
 /* ALL GET PAGE FUNCTIONS HERE */
 function addContactPage(){
 	$pageData['base'] = "../";
